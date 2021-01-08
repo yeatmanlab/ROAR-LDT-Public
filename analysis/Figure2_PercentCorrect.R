@@ -20,11 +20,11 @@ get_upper_tri <- function(cormat){
 }
 
 # Load data
-setwd('~/git/ROAR-LDT/data_allsubs/')
-# sub.data <- read.csv('~/git/ROAR-LDT/data_allsubs/SubjectThetaEstimates.csv')
-metadata <- read.csv('~/git/ROAR-LDT/data_allsubs/metadata_all_newcodes.csv')
-sub.data <- read.csv('~/git/ROAR-LDT/data_allsubs/LDT_summarymeasures_wide_newcodes.csv')
-sub.outliers <- read.csv('~/git/ROAR-LDT/data_allsubs/Subject_RT_Outliers.csv')
+setwd('~/git/ROAR-LDT-Public/data_allsubs/')
+# sub.data <- read.csv('~/git/ROAR-LDT-Public/data_allsubs/SubjectThetaEstimates.csv')
+metadata <- read.csv('~/git/ROAR-LDT-Public/data_allsubs/metadata_all_newcodes.csv')
+sub.data <- read.csv('~/git/ROAR-LDT-Public/data_allsubs/LDT_summarymeasures_wide_newcodes.csv')
+sub.outliers <- read.csv('~/git/ROAR-LDT-Public/data_allsubs/Subject_RT_Outliers.csv')
 sub.outliers$subj <- as.character(sub.outliers$subj)
 
 # match data types
