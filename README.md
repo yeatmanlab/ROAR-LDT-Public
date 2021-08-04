@@ -1,6 +1,6 @@
-# Rapid Online Assessment of Reading ability (ROAR)
+# [Rapid Online Assessment of Reading ability (ROAR)](https://www.nature.com/articles/s41598-021-85907-x)
 
-Yeatman, Jason D., Kenny An Tang, Patrick M. Donnelly, Maya Yablonski, Mahalakshmi Ramamurthy, Iliana I. Karipidis, Sendy Caffarra, et al. 2021. “Rapid Online Assessment of Reading Ability.” Scientific Reports 11 (1): 1–11.
+[Yeatman, Jason D., Kenny An Tang, Patrick M. Donnelly, Maya Yablonski, Mahalakshmi Ramamurthy, Iliana I. Karipidis, Sendy Caffarra, et al. 2021. “Rapid Online Assessment of Reading Ability.” Scientific Reports 11 (1): 1–11.](https://www.nature.com/articles/s41598-021-85907-x)
 
 ## Summary 
 This repo contains the Javascript code for the ROAR and analysis code to reproduce all the figures in the manuscript. All the data reported in the manuscript is included in this repo. 
